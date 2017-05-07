@@ -4,4 +4,4 @@
 * IntellijIdea import as maven project
 * http://localhost:8082/SpringBootCRUDApp
 
-![Angular GUI](http://droidaddiction.com/springbootangular.png")
+(http://droidaddiction.com/springbootangular.png")
